@@ -1,3 +1,4 @@
+# DONE IN PYCHARDM
 import pyqrcode#imported the pyqrcode package
 def qr_code():#def is a keyword for cuntion, qr_code is the name of the function
   s='This is POWER python class'
