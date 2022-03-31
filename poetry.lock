@@ -1,0 +1,21 @@
+[[package]]
+name = "pyqrcode"
+version = "1.2.1"
+description = "A QR code generator written purely in Python with SVG, EPS, PNG and terminal output."
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.extras]
+PNG = ["pypng (>=0.0.13)"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "6e451aedb214c7039a1990eee4636e2e5341859373dec1b9b64d6c8a463b71cd"
+
+[metadata.files]
+pyqrcode = [
+    {file = "PyQRCode-1.2.1.tar.gz", hash = "sha256:fdbf7634733e56b72e27f9bce46e4550b75a3a2c420414035cae9d9d26b234d5"},
+    {file = "PyQRCode-1.2.1.zip", hash = "sha256:1b2812775fa6ff5c527977c4cd2ccb07051ca7d0bc0aecf937a43864abe5eff6"},
+]
